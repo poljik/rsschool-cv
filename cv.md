@@ -12,6 +12,21 @@
 * bat/cmd
 * bash
 ### Code example
+```
+function points(games) {
+  x = 0;
+  for (let i = 0; i < games.length; i++) {
+    a = Number(games[i][0]);
+    b = Number(games[i][2]);
+    if (a > b) {
+      x = x + 3;
+    } else if (a == b) {
+      x++;
+    }
+   }
+  return(x);
+}
+```
 ### Work experience
 I work as a system administrator
 ### Education
