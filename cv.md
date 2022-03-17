@@ -1,9 +1,8 @@
 ### Contacts
-#### Krupski Pavel
 * Email: poljik@gmail.com
 * Telegram: @poljik
 ### About Me
-
+My name is Krupski Pavel. I`m 42 eyars old and I live in Polotsk.
 ### Skills
 * HTML
 * CSS
