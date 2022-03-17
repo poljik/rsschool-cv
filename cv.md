@@ -12,7 +12,7 @@
 * bat/cmd
 * bash
 ### Code example
-```
+```js
 function points(games) {
   x = 0;
   for (let i = 0; i < games.length; i++) {
