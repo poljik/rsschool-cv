@@ -1,8 +1,10 @@
 ### Contacts
 * Email: poljik@gmail.com
-* Telegram: @poljik
+* Telegram/Discord/GitHub: @poljik
+  
 ### About Me
 My name is Krupski Pavel. I am 42 eyars old and I live in Polotsk.
+
 ### Skills
 * HTML
 * CSS
@@ -10,6 +12,7 @@ My name is Krupski Pavel. I am 42 eyars old and I live in Polotsk.
 * Powershell
 * bat/cmd
 * bash
+
 ### Code example
 ```js
 function points(games) {
@@ -26,10 +29,13 @@ function points(games) {
   return(x);
 }
 ```
+
 ### Work experience
 I work as a system administrator
+
 ### Education
 * Polotsk State University. Faculty of Mechanical Engineering. Engineer (1996-2001)
+
 ### Languages
 * Russian - native speaker
 * English - A2.
